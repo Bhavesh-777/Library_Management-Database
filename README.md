@@ -18,5 +18,4 @@ This project is developed as part of a one-month SQL internship. It demonstrates
 
 ---
 
-## 📁 Folder Structure
 
